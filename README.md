@@ -2,7 +2,7 @@
 The addon replaces the deprecated nCore URL (.cc) to the new (.pro) and adds a new nCore link for searching the whole season.
 
 ### Screenshot
-https://whatnextncore.anuka.me/screenshot.png
+![Addon screenshot](https://whatnextncore.anuka.me/screenshot.png)
 
 ### Chrome addon
 https://chrome.google.com/webstore/detail/whatnext-ncore/ckdbdloblgjdnnllnpnabmdhkakooepa
